@@ -22,7 +22,7 @@ This project analyzes the Greater Toronto Area (GTA) housing market using real d
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview]("Canadian_Housing_Dashboard\tableau\GTA Real Estate Analysis.png")
+![Dashboard Preview](Canadian_Housing_Dashboard\tableau\GTA Real Estate Analysis.png)
 
 ---
 
